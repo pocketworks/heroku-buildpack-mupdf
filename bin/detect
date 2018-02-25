@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-echo "MuPDF 1.3"
+echo "MuPDF 1.12"
 exit 0
